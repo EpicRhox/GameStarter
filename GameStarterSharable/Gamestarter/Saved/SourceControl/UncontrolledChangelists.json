@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Dalton/Perforce/DNMeadows_DESKTOP-4JEJDUS_5535/GDNBS/GMC2/08/S1/Team 2/Gamestarter/Content/--Gamestarter--/Vehicle/Blueprints/M_SmokeMaterial.uasset",
+				"C:/Users/Dalton/Perforce/DNMeadows_DESKTOP-4JEJDUS_5535/GDNBS/GMC2/08/S1/Team 2/Gamestarter/Content/--Gamestarter--/Vehicle/Blueprints/VFX/M_SmokeMaterial.uasset",
+				"C:/Users/Dalton/Perforce/DNMeadows_DESKTOP-4JEJDUS_5535/GDNBS/GMC2/08/S1/Team 2/Gamestarter/Content/--Gamestarter--/Vehicle/Blueprints/VFX/NS_Explosion.uasset",
+				"C:/Users/Dalton/Perforce/DNMeadows_DESKTOP-4JEJDUS_5535/GDNBS/GMC2/08/S1/Team 2/Gamestarter/Content/--Gamestarter--/Vehicle/Blueprints/BP_ExplosiveBarrel.uasset"
+			]
+		}
+	]
+}
